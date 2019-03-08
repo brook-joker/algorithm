@@ -2,44 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d58795e9-34ec-4d00-b9cf-29d092bd690e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetEight.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetFive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetOne.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetSeven.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetSix.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetThree.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/CheckIntersect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/ChkIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/ChkLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/ClearValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/Divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/Finder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/InsertValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/LinkSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/MaxTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/RandomListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/Remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/SlideWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/StackReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/ThreeColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/TwoStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/TwoStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/ZZZSortMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,17 +14,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ZZZSortMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/ZZZSortMain.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="5">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>堆排序</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,11 +50,18 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/nowcoder/HeapSort.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-59" />
-    <option name="y" value="-960" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="x" value="-45" />
+    <option name="y" value="-998" />
+    <option name="width" value="1492" />
+    <option name="height" value="998" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -88,6 +71,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,16 +90,18 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/leetcode" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,6 +116,17 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.HeapSort" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -169,6 +168,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HeapSort" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -184,32 +188,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="547" y="-1038" width="1440" height="877" extended-state="0" />
+    <frame x="-45" y="-998" width="1492" height="998" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Messages" weight="0.3299435" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29717514" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24413793" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -222,6 +227,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/ZZZSortMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/Finder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/TwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/CountingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/MaxTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
