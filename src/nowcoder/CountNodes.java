@@ -12,5 +12,6 @@ import javax.swing.tree.TreeNode;
 public class CountNodes {
     public int count(TreeNode root) {
         // write code here
+        return 0;
     }
 }
