@@ -1,17 +1,19 @@
 package leetcode;
 
 
-//["WordDictionary","addWord","addWord","addWord","addWord","search","search","addWord","search","search","search","search","search","search"]
-//[[],["at"],["and"],["an"],["add"],["a"],[".at"],["bat"],[".at"],["an."],["a.d."],["b."],["a.d"],["."]]
+import 剑指offer.*;
+
+import java.util.Arrays;
+
 public class LeetMain {
     public static void main(String[] args) {
-        WordDictionary wordDictionary = new WordDictionary();
-        wordDictionary.addWord("at");
-        wordDictionary.addWord("bad");
-        wordDictionary.addWord("an");
-        wordDictionary.addWord("add");
-        wordDictionary.addWord("bat");
-        System.out.println(wordDictionary.search(".at"));
+        int[] a = new int[]{1, 3};
+        int[] b = new int[]{6, 9};
+        int[][] d = new int[][]{a, b};
+        int[] c = new int[]{2, 5};
+
+        System.out.println(Arrays.deepToString(new Leet57().insert(d, c)));
+
     }
 
 

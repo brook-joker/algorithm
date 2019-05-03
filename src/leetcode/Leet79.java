@@ -22,11 +22,13 @@ public class Leet79 {
             return false;
         }
 
-        if (board[i][j]==word.charAt(index)){
+        if (board[i][j] == word.charAt(index)) {
             map[i][j] = true;
-            boolean res = dfs(board, map, i+1, j, index+1, word)||dfs(board, map, i-1, j, index+1, word)||
-                    dfs(board, map, i, j+1, index+1, word)||dfs(board, map, i, j-1, index+1, word);
-            map[i][j] =false;
+            boolean res = dfs(board, map, i + 1, j, index + 1, word) || dfs(board, map, i - 1, j, index + 1, word) ||
+                    dfs(board, map, i, j + 1, index + 1, word) || dfs(board, map, i, j - 1, index + 1, word);
+            if (!res) {
+                map[i][j] = false;
+            }
             return res;
         }
         return false;
