@@ -4,40 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/leetcode/Leet100.java" line="167" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d58795e9-34ec-4d00-b9cf-29d092bd690e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet100.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet102.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet107.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet114.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet144.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet145.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet429.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet542.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet589.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet590.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet637.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet94.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet429.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet542.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet589.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet637.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet717.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet89.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/LeetMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/LeetMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="d58795e9-34ec-4d00-b9cf-29d092bd690e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,8 +51,8 @@
       <file leaf-file-name="Leet20.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leetcode/Leet20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="24" column="31" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="24" selection-end-column="31" />
+            <state relative-caret-position="600">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -1111,8 +1078,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Leet20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="24" selection-end-column="31" />
+        <state relative-caret-position="600">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
