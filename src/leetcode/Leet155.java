@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.*;
 
-public class Leet155 {
+class MinStack {
 
     Stack<Integer> stack;
     Stack<Integer> minStack;
