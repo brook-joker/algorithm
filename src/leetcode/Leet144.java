@@ -11,14 +11,15 @@ public class Leet144 {
             return result;
         }
         Stack<TreeNode> stack = new Stack<>();
-        while (!stack.isEmpty()) {
+        stack.push(root);
+        while (!stack.isEmpty()){
             TreeNode node = stack.pop();
             result.add(node.val);
-            if (node.right != null) {
-                stack.add(node.right);
+            if (node.right!=null){
+                stack.push(node.right);
             }
-            if (node.left != null) {
-                stack.add(node.left);
+            if (node.left!=null){
+                stack.push(node.left);
             }
         }
         return result;

@@ -5,11 +5,7 @@ import java.util.List;
 import java.util.Stack;
 
 public class Leet94 {
-    /**
-     *
-     * @param root
-     * @return
-     */
+
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         if (root == null) {
@@ -18,14 +14,22 @@ public class Leet94 {
         Stack<TreeNode> stack = new Stack<>();
         while (root != null || !stack.isEmpty()) {
             if (root != null) {
-                stack.add(root);
+                stack.push(root);
                 root = root.left;
             } else {
-                root = stack.pop();
-                result.add(root.val);
-                root = root.right;
+                TreeNode node = stack.pop();
+                result.add(node.val);
+                root = node.right;
             }
         }
         return result;
+    }
+
+
+    public void inorderTraversalRecursion(TreeNode root, List<Integer> list) {
+        if (root == null) return;
+        inorderTraversalRecursion(root.left, list);
+        list.add(root.val);
+        inorderTraversalRecursion(root.right, list);
     }
 }
