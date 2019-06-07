@@ -1,6 +1,5 @@
 package leetcode;
 
-import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -49,7 +48,7 @@ public class Leet987 {
         }
 
         @Override
-        public int compareTo(@NotNull Location o) {
+        public int compareTo(Location o) {
             if (this.x != o.x) {
                 return Integer.compare(this.x, o.x);
             } else if (this.y != o.y) {

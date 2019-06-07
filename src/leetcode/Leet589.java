@@ -10,10 +10,10 @@ import java.util.Stack;
 public class Leet589 {
 
 
-    public List<Integer> preorder(Node root) {
+    public List<Integer> preorder(Leet590.Node root) {
         List<Integer> res = new ArrayList<>();
         if (root == null) return res;
-        Stack<Node> stack = new Stack<>();
+        Stack<Leet590.Node> stack = new Stack<>();
         stack.add(root);
         while (!stack.isEmpty()) {
             root = stack.pop();
@@ -30,11 +30,11 @@ public class Leet589 {
     }
 
 
-    void preorderRecursion(List<Integer> res, Node root) {
+    void preorderRecursion(List<Integer> res, Leet590.Node root) {
         if (root == null) return;
         res.add(root.val);
         if (root.children != null) {
-            for (Node child : root.children) {
+            for (Leet590.Node child : root.children) {
                 preorderRecursion(res, child);
             }
         }

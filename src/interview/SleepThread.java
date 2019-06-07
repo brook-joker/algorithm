@@ -1,11 +1,10 @@
 package interview;
 
-import org.jetbrains.annotations.NotNull;
 
 public class SleepThread extends Thread {
     private static int currentCount = 0;
 
-    public SleepThread(@NotNull String name) {
+    public SleepThread(String name) {
         this.setName(name);
     }
 

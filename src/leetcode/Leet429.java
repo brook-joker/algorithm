@@ -1,6 +1,7 @@
 package leetcode;
 
 import java.util.*;
+import leetcode.Leet590.Node;
 
 public class Leet429 {
 
