@@ -5,28 +5,158 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d58795e9-34ec-4d00-b9cf-29d092bd690e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AndroidCommunicate/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/ProxMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/ProxyImp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/ProxyInterface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ktexpense/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leet46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/DeadLoopClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/ReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/StaticMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/SuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/META-INF/algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/META-INF/algorithm.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet100.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet101.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet101.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet102.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet102.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet104Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet104Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet105.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet105.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet106.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet106.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet107.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet107.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet110.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet110.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet111.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet111.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet114.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet114.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet121.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet121.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet122.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet122.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet13.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet144.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet144.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet145.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet145.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet148_merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet148_merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet148_quick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet148_quick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet153.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet153.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet154.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet154.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet169.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet169.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet206.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet206.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet209.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet209.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet212.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet212.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet215.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet215.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet219.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet219.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet229.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet229.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet237.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet237.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet278.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet278.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet283.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet283.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet38.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet38.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet429.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet429.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet470.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet470.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet51.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet51.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet52.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet54.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet54.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet542.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet542.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet56$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet56$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet56.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet57$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet57$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet57$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet57$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet57.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet57.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet589.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet589.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet59.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet59.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet590.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet590.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet61.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet61.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet617.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet617.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet637.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet637.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet654.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet654.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet70.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet70.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet717.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet717.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet777.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet777.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet78.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet78.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet784.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet784.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet79.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet79.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet82.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet82.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet83.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet83.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet876.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet876.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet88.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet88.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet89.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet89.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet90.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet90.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet94.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Leet94.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AndroidCommunicate/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AndroidCommunicate/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/SleepThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/SleepThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Leet429.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Leet429.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Leet589.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Leet589.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Leet590.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Leet590.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Leet987.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Leet987.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetCode846.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetCode846.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetSeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetSeven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetSix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetSix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/LeetThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/MinStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Trie$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Trie$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/WordDictionary$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/WordDictionary$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/WordDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/WordDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/CheckIntersect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/CheckIntersect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Checker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ChkIntersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ChkIntersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ChkIntersection2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ChkIntersection2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ChkLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ChkLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ClearValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ClearValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Common.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/CountNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/CountNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/CountingSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Divide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Divide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Find.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Finder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Finder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/GetLessIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/GetLessIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/HeapSortCCC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/HeapSortCCC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/InsertValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/InsertValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/LeftMostAppearance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/LeftMostAppearance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/LinkSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/LinkSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/MaxTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/MaxTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/MinValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/MinValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/QuickPower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/QuickPower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/RadixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/RadixSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/RandomListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/RandomListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Remove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Remove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ScaleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ScaleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/SlideWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/SlideWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/StackReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/StackReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Subsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/Subsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ThreeColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ThreeColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/TwoStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/TwoStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/TwoStacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/TwoStacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ZZZSortMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/nowcoder/ZZZSortMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/Offer9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/TreeLinkNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/TreeLinkNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/剑指offer/offer13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/剑指offer/offer13.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,66 +173,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ProxyInterface.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/ProxyInterface.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Leet987.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Leet987.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProxMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interview/ProxMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/reflect/Proxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="1000" selection-start-line="1000" selection-end-line="1000" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProxyImp.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/ProxyImp.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SleepThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/SleepThread.java">
+      <file leaf-file-name="SuperClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/SuperClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
               <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/SubClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/interview/StaticMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeadLoopClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/DeadLoopClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -114,8 +220,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -131,6 +237,7 @@
       <find>add</find>
       <find>inorderTraversal</find>
       <find>postorderTraversal</find>
+      <find>Error:java: 无效的源发行版: 10</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,12 +255,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/Leet114.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Leet717.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Leet89.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Leet70.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Leet54.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Leet61.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leet122.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leet88.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leet20.java" />
@@ -199,6 +300,12 @@
         <option value="$PROJECT_DIR$/src/leetcode/Leet987.java" />
         <option value="$PROJECT_DIR$/src/interview/ProxyImp.kt" />
         <option value="$PROJECT_DIR$/src/interview/ProxMain.java" />
+        <option value="$PROJECT_DIR$/src/interview/ReferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/interview/SubClass.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/src/interview/SuperClass.java" />
+        <option value="$PROJECT_DIR$/src/interview/DeadLoopClass.java" />
+        <option value="$PROJECT_DIR$/src/interview/StaticMain.java" />
       </list>
     </option>
   </component>
@@ -220,7 +327,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,11 +334,6 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -245,17 +346,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="LeetM&#9;FILE&#9;file:///Users/maqiang/Documents/GitHub/algorithm/src/leetcode/LeetMain.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Lee&#9;FILE&#9;file:///Users/maqiang/Documents/GitHub/algorithm/src/leetcode/LeetMain.java&#10;Leetm&#9;FILE&#9;file:///Users/maqiang/Documents/GitHub/algorithm/src/leetcode/LeetMain.java&#10;LEetM&#9;FILE&#9;file:///Users/maqiang/Documents/GitHub/algorithm/src/leetcode/LeetMain.java&#10;590&#9;FILE&#9;file:///Users/maqiang/Documents/GitHub/algorithm/src/leetcode/Leet590.java&#10;Lem&#9;FILE&#9;file:///Users/maqiang/Documents/GitHub/algorithm/src/leetcode/LeetMain.java&#10;Le&#9;FILE&#9;file:///Users/maqiang/Documents/GitHub/algorithm/src/leetcode/LeetMain.java&#10;Leet&#9;FILE&#9;file:///Users/maqiang/Documents/GitHub/algorithm/src/leetcode/LeetMain.java&#10;ChkIntersection&#9;PSI&#9;JAVA://nowcoder.ChkIntersection" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15436894" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -278,7 +389,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProxMain">
+  <component name="RunManager" selected="Application.StaticMain">
     <configuration name="FindXiangJIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.FindXiangJIn" />
       <module name="algorithm" />
@@ -290,8 +401,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JavaOver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.JavaOver" />
+    <configuration name="ProxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.ProxMain" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -301,19 +412,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LeetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.LeetMain" />
+    <configuration name="ReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.ReferenceTest" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ProxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.ProxMain" />
+    <configuration name="StaticMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.StaticMain" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -376,19 +487,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LeetMain" />
-      <item itemvalue="Application.JavaOver" />
       <item itemvalue="Application.ThreadPrint" />
       <item itemvalue="Application.FindXiangJIn" />
       <item itemvalue="Application.ProxMain" />
+      <item itemvalue="Application.ReferenceTest" />
+      <item itemvalue="Application.StaticMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticMain" />
+        <item itemvalue="Application.ReferenceTest" />
         <item itemvalue="Application.ProxMain" />
         <item itemvalue="Application.FindXiangJIn" />
         <item itemvalue="Application.ThreadPrint" />
-        <item itemvalue="Application.LeetMain" />
-        <item itemvalue="Application.JavaOver" />
       </list>
     </recent_temporary>
   </component>
@@ -417,12 +528,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.3297568" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33246073" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32068062" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32880098" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.763089" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27181688" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27896994" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info id="UI Designer" order="6" />
@@ -432,8 +543,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.3297568" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Kotlin Bytecode" order="8" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info auto_hide="true" id="Learn" internal_type="SLIDING" order="1" type="SLIDING" weight="0.3297568" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -656,6 +767,12 @@
           <properties />
           <option name="timeStamp" value="198" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/ReferenceTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/leetcode/Leet852.kt</url>
           <line>8</line>
@@ -705,7 +822,7 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="199" />
+      <option name="time" value="200" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -757,69 +874,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Leet155.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Leet106.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Leet105.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/Offer7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/Offer8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/TreeLinkNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/Offer9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/Offer10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/Offer11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -915,6 +969,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -992,10 +1054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26562">
           <caret line="1462" column="22" selection-start-line="1462" selection-start-column="22" selection-end-line="1462" selection-end-column="22" />
-          <folding>
-            <element signature="e#56810#56811#0" expanded="true" />
-            <element signature="e#56866#56867#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1029,9 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
           <caret line="37" column="22" selection-start-line="8" selection-start-column="8" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1039,9 +1094,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
           <caret line="38" column="22" selection-start-line="9" selection-start-column="8" selection-end-line="38" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1056,9 +1108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="57" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1066,9 +1115,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="8" column="83" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1101,9 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1130,11 +1173,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/ProxMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="389">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/ref/WeakReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="235" column="36" lean-forward="true" selection-start-line="235" selection-start-column="36" selection-end-line="235" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ReferenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="675" column="33" lean-forward="true" selection-start-line="675" selection-start-column="33" selection-end-line="675" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/DeadLoopClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/StaticMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -1155,7 +1268,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Kotlin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1178,7 +1291,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1190,7 +1303,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>algorithm</last-edited>
+          <last-edited>Kotlin|algorithm</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
