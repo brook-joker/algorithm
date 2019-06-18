@@ -24,6 +24,7 @@ public class Leet206 {
             return head;
         }
         ListNode next = reverseList(head.next);
+        System.out.println(next.val);
         head.next.next = head;
         head.next = null;
         return next;

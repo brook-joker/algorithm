@@ -1,0 +1,4 @@
+package AndroidCommunicate
+
+object Single {
+}

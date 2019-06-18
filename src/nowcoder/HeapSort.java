@@ -5,11 +5,11 @@ public class HeapSort {
     public int[] heapSort(int[] A, int n) {
         // write code here
         for (int i = n / 2; i >= 0; i--) {
-            buildMinHeap(A, i, n);
+            buildMaxHeap(A, i, n);
         }
         for (int i = A.length - 1; i >= 0; i--) {
             swap(A, 0, i);
-            buildMinHeap(A, 0, i);
+            buildMaxHeap(A, 0, i);
         }
         return A;
     }
@@ -42,17 +42,28 @@ public class HeapSort {
      * @param n
      */
     public void buildMinHeap(int[] array, int parentIndex, int n) {
-        int child, parent;
-        for (parent = array[parentIndex]; 2 * parentIndex + 1 < n; parentIndex = child) {
+//        int l = 2 * parentIndex + 1;
+//        int r = 2 * parentIndex + 2;
+//        int maxIndex = l;
+//        while (l < n) {
+//            if (r < n - 1 && array[l] > array[r]) {
+//                maxIndex = r;
+//            }
+//            if (array[maxIndex] >= array[parentIndex]) {
+//                break;
+//            }
+//            swap(array, parentIndex, maxIndex);
+//            parentIndex = maxIndex;
+//        }
+
+        int child, parent = array[parentIndex];
+        for (; 2 * parentIndex + 1 < n; parentIndex = child) {
             child = 2 * parentIndex + 1; //左
             if (child < n - 1 && array[child] > array[child + 1]) child++;
             if (array[child] < parent) {
-                array[parentIndex] = array[child];
-            } else {
-                break;
+                swap(array, parentIndex, child);
             }
         }
-        array[parentIndex] = parent;
 
     }
 
